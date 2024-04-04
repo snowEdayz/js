@@ -29,6 +29,8 @@ const uselessUrlParams = [
     'vd_source',
     /^share/,
     /^spm/,
+    'from_spmid',
+    'unique_k',
 ];
 
 // Block WebRTC，CNM 陈睿你就缺这点棺材钱？
